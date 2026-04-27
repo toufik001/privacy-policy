@@ -1,0 +1,124 @@
+Privacy Policy
+
+Last updated: 27-04-2026
+
+This Privacy Policy describes how the mobile application “Wessali” ("we", "our", or "us") collects, uses, and protects information when you use our delivery management application.
+
+By using the application, you agree to the practices described in this Privacy Policy.
+
+---
+
+1. Introduction
+
+Wessali is a mobile application designed to manage delivery activities, including scanning parcels using QR codes or barcodes, tracking deliveries, and managing logistics operations.
+
+We are committed to protecting your privacy and ensuring transparency regarding how your data is handled.
+
+---
+
+2. Information We Collect
+
+2.1 Information Provided by the User
+The application may collect information that you manually enter, such as:
+
+* Parcel references
+* Delivery information
+* Operational data related to logistics activities
+
+2.2 Automatically Collected Data
+We may collect limited technical information such as:
+
+* Device type
+* App usage data (for performance and debugging)
+
+This data is anonymized and used only to improve the application.
+
+---
+
+3. Camera Permission
+
+Our application requires access to your device camera for the following purpose:
+
+* Scanning QR codes and barcodes on parcels to identify and process deliveries
+
+Important:
+
+* The camera is used only when the user actively scans a code
+* No photos or videos are recorded or stored
+* No camera data is transmitted to our servers
+* All scanning is processed in real-time
+
+---
+
+4. Data Usage
+
+We use collected data to:
+
+* Enable parcel tracking and delivery management
+* Improve app performance and user experience
+* Ensure proper functioning of core features
+
+We do NOT:
+
+* Sell your personal data
+* Share your data with third parties for marketing
+
+---
+
+5. Data Storage and Security
+
+* Data is stored securely
+* We implement appropriate technical measures to protect data against unauthorized access
+* Sensitive operations are protected
+
+---
+
+6. Data Sharing
+
+We do not share your personal data except:
+
+* When required by law
+* To comply with legal obligations
+
+---
+
+7. Third-Party Services
+
+The application may use third-party services (e.g., hosting, analytics). These services may process limited technical data necessary for their operation.
+
+---
+
+8. User Rights
+
+Depending on your location, you may have the right to:
+
+* Access your data
+* Request correction or deletion
+* Object to certain processing
+
+To exercise your rights, contact us at the email below.
+
+---
+
+9. Children’s Privacy
+
+This application is not intended for use by children under 13. We do not knowingly collect data from children.
+
+---
+
+10. Changes to This Policy
+
+We may update this Privacy Policy from time to time. Changes will be posted within the application or on our website.
+
+---
+
+11. Contact
+
+If you have any questions about this Privacy Policy, you can contact us at:
+
+Email: [BAZ.TAOUFIK@GMAIL.COM]
+Company: BAZ Taoufik
+
+---
+
+END OF PRIVACY POLICY
